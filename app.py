@@ -63,3 +63,5 @@ st.dataframe(df) # Dataframe
 
 #---------------------------------------------------------------------------
 
+st.sidebar() # Sidebar
+st.sidebar.title("Sidebar") # Titulo de la sidebar
